@@ -1,0 +1,1 @@
+It makes your syntax look cleaner and more readable. It also allows you to add validation logic when setting values, which can help prevent invalid data from being assigned to your attributes.
