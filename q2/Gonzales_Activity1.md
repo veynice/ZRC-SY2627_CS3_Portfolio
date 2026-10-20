@@ -1,0 +1,5 @@
+1. What is/are the parent class/es of the Programmer class in the video? https://www.youtube.com/watch?v=m_MQYyJpIjg&t=328s 
+The parent class of the Programmer class in the video is a type of Employee, and an Employee is a type of Person. Therefore, the direct parent(superclass) of the Programmer class is the Employee class, while the Person class serves as the base class in this chain.
+
+2. If you were to add a new role called Intern, where would you place it in the inheritance hierarchy? Why?
+If I were to add an Intern role, it would best be placed as a subclass of the Employee class. By making it a subclass of Employee, the Intern class would automatically inherit the base properties and methods defined for all employees, while allowing you to add specific attributes relevant only to interns.
