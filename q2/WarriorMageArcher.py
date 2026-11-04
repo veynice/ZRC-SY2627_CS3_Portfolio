@@ -10,8 +10,8 @@ class Archer:
     def special_move(self):
         print("Archer shoots a precise arrow!")
 
-def perform_move(self):
-        character.special_move()
+def perform_move(character):
+    character.special_move()
 
 characters = [Warrior(), Mage(), Archer()]
 
