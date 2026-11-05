@@ -20,7 +20,7 @@ class Drone:
         print("The drone flies in the sky.")
 
 
-def start_trip(self):
+def start_trip(vehicle):
         vehicle.move()
 
 vehicles = [Car(), Boat(), Drone()]
